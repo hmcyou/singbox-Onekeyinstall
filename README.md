@@ -37,7 +37,7 @@
     </td>
     <td align="center" width="220">
       <a href="https://yuusei.io/" target="_blank">
-        <img src="https://console.alice.sh/assets/images/logo-yellow.svg" width="100" alt="Yuusei Network" />
+        <img src="https://github.com/caigouzi121380/singbox-deploy/blob/main/%E4%B8%8B%E8%BD%BD.svg" width="100" alt="Yuusei Network" />
         <br><sub><b>Yuusei Network</b></sub>
       </a>
     </td>
