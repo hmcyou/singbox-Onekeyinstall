@@ -46,13 +46,7 @@
         <img src="https://lxc.lazycat.wiki/upload/logo2.png" width="100" alt="懒猫云" />
         <br><sub><b>懒猫云</b></sub>
       </a>
-    </td>
-    <td align="center" width="220">
-      <a href="https://www.lxc.wiki/" target="_blank">
-        <img src="https://www.lxc.wiki/themes/web/starvm-phj/img/logo.png" width="100" alt="拼好鸡" />
-        <br><sub><b>拼好鸡</b></sub>
-      </a>
-    </td>
+  
 
   </tr>
 </table>
